@@ -138,7 +138,7 @@
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("新細明體", 20F);
-            this.textBox3.Location = new System.Drawing.Point(534, 55);
+            this.textBox3.Location = new System.Drawing.Point(366, 58);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 47);
             this.textBox3.TabIndex = 12;
@@ -156,7 +156,7 @@
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("新細明體", 20F);
-            this.textBox4.Location = new System.Drawing.Point(366, 58);
+            this.textBox4.Location = new System.Drawing.Point(525, 58);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 47);
             this.textBox4.TabIndex = 10;
